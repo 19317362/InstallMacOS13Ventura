@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Definir disco de instalación para MacOS 12 Monterey
+#Definir disco de instalación para MacOS 13 Ventura
 Disco=DiskMonterey.qcow2
 Capacidad=64G
 
