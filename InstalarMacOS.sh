@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Definir disco de instalación para MacOS 12 Monterey
+#Definir disco de instalación para MacOS 13 Ventura
 Disco=DiskMonterey.qcow2
 
 #Características de la máquina virtual
@@ -11,7 +11,7 @@ MRam=8G
 nC=4 #Procesadores
 nH=4 #Hilos
 Boot="OpenCore.qcow2" 
-Base="BaseSystem.img" #Disco instalación de MacOS 12 Monterey
+Base="BaseSystem.img" #Disco instalación de MacOS 13 Ventura
 VGA=virtio #vmware #std #qxl
 
 #Ejecutamos la máquina virtual con las características definidas.
