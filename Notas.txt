@@ -1,4 +1,7 @@
 
+Descargar y convertir fichero dmd a img de macos desde windows.
+https://techsviewer.com/how-to-convert-installassistant-pkg-to-app-file-on-windows-and-mac/
+https://dortania.github.io/OpenCore-Install-Guide/installer-guide/winblows-install.html#downloading-macos
 
 ----------------------------------
 --- Instalación ------------------
