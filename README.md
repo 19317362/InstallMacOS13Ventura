@@ -10,3 +10,4 @@ Vídeo explicativo de la instalación: https://www.youtube.com/sykeyxam
 Proyectos utilizados para crear este proyecto:
 https://github.com/foxlet/macOS-Simple-KVM
 https://github.com/kholia/OSX-KVM
+https://github.com/acidanthera/OpenCorePkg/releases
