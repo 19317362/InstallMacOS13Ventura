@@ -1,7 +1,7 @@
 
 #!/bin/bash
 
-BaseSystemDMG=BaseSystem.dmg
+BaseSystemDMG=./com.apple.recovery.boot/BaseSystem.dmg
 BaseSystemIMG=BaseSystem.img
 
 #Convertimos el fichero DMG en IMG

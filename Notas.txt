@@ -13,9 +13,6 @@ python3 Iniciar.py
 --- Comprobación ----------
 ---------------------------
 
-sha256sum BaseSystem.dmg
-4d3d7716c9eb0053c9d25231ed9ab749c4c02da040d6b7411b1d974b9c17679a  BaseSystem.dmg
-
 sha256sum OpenCore.qcow2
 2716a9e2e5c9f6933841e0f6f915078ce261e32a0f639e080246c6ff6903c43d  OpenCore.qcow2
 
